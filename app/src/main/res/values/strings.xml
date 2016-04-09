@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Basic Phrases App</string>
+    <string name="speakEnglish">Do you &#10;speak english?</string>
+    <string name="goodEvening">Good Evening!</string>
+    <string name="howAreYou">How are you?</string>
+    <string name="iLiveIn">I live in . . .</string>
+    <string name="myNameIs">My name is . . .</string>
+    <string name="please">Please.</string>
+    <string name="welcome">Welcome!</string>
+    <string name="hello">Hello!</string>
+    <string name="action_settings">Basic Phrases</string>
+</resources>
